@@ -1,6 +1,4 @@
-INTEGRANTES:
-    - Matías Torrejón ROL: 202173543-7 
-    - Renato Ramirez ROL: 202173639-5 
+Matías Torrejón
 
 INSTRUCCIONES:
 
